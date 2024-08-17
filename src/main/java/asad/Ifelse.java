@@ -23,3 +23,6 @@ public class Ifelse {
 	}
 
 // note down
+//hotel & hospital
+// ball
+
